@@ -49,13 +49,6 @@ If you have a local server setup (like using XAMPP, WAMP, or a Node.js server), 
 ![image](https://github.com/JhonnFy/Restaurant-Website/assets/97255802/e4d0a825-9766-4620-b780-792a6f780a5e)
 ![image](https://github.com/JhonnFy/Restaurant-Website/assets/97255802/3e996b2a-41c8-4a02-a2c0-de850c7b2c40)
 
-
-![Restaurant Homepage](images/restaurant-homepage.png)  
-*Restaurant homepage showing the main menu.*
-
-![Restaurant Menu](images/restaurant-menu.png)  
-*Menu display showcasing various food items.*
-
 ## Contributing
 
 Contributions are welcome. If you want to improve any functionality, open an issue or submit a pull request.
