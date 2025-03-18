@@ -39,4 +39,4 @@ To get started with the Restaurant Website project, follow these steps:
 Contributions are welcome. If you want to improve any functionality, open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
